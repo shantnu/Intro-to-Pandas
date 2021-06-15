@@ -2,4 +2,4 @@
 
 # Intro-to-Pandas
 
-code for the blof
+code for the blog
